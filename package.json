@@ -1,5 +1,5 @@
 {
-    "name": "-clone",
+    "name": "near-api-js-clone",
     "description": "JavaScript library to interact with NEAR Protocol via RPC API",
     "version": "0.45.0",
     "repository": {
